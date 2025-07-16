@@ -1,4 +1,4 @@
-🚀Project-3-Phishing-Analysis-Investigating-Phishing-Email
+🚀Project-3-Phishing Analysis Investigating a Phishing Email
 ---
 
 ## 🎯 **Lab Objective**
@@ -39,20 +39,29 @@ Investigate and answer the following:
 
 
 ---
-
-
-## 📸 **Submit the Following Screenshots:**
-
-1. Screenshot of the email header with sender, Return-Path, and IP address highlighted.  
-2. Screenshot of the IP reputation lookup result (AbuseIPDB or VirusTotal).  
-3. Screenshot of the suspicious link found in the email body.  
-4. Screenshot of the email content or HTML preview that shows urgency, branding, or spoofing.  
-
 ## ✅ **Learning Outcome**
 
-By the end of this lab, students should be able to:
+By the end of this lab, we are able to:
 - Trace email origin
 - Validate domains and IPs
 - Understand spoofing techniques
 - Detect phishing attempts using header and body analysis
+
+--
+
+## 📸 **Submit the Following Screenshots:**
+
+### 1. Screenshot of the email header with sender, Return-Path, and IP address highlighted.  
+![image alt](https://github.com/sachinpatil-soc/Ethical-Hacking-Projects/blob/be2c84ccae6f7ea1c07ef8d2d373cad0f274b242/eml-analyzer-1.png)
+
+### 2. Screenshot of the IP reputation lookup result (AbuseIPDB or VirusTotal).  
+![image alt](https://github.com/sachinpatil-soc/Ethical-Hacking-Projects/blob/be2c84ccae6f7ea1c07ef8d2d373cad0f274b242/eml-iplookup-2.png)
+
+### 3. Screenshot of the suspicious link found in the email body.  
+![image alt](https://github.com/sachinpatil-soc/Ethical-Hacking-Projects/blob/be2c84ccae6f7ea1c07ef8d2d373cad0f274b242/eml-suspisiouslink-3.png)
+
+### 4. Screenshot of the email content or HTML preview that shows urgency, branding, or spoofing.  
+![image alt](https://github.com/sachinpatil-soc/Ethical-Hacking-Projects/blob/be2c84ccae6f7ea1c07ef8d2d373cad0f274b242/eml-authentication-4.png)
+
+
 
