@@ -1,12 +1,11 @@
 
-
-# 🚀Day#21-Introduction to Phishing Analysis**
+# 🚀Project-2-Introduction to Phishing Analysis
 
 ---
 
 ## 🎯 **Lab Objective**
 
-Learn how to analyze a phishing email by examining headers, body, URLs, and attachments. Understand different phishing types and techniques, and how to use open-source tools to investigate and extract Indicators of Compromise (IOCs).
+In this lab will Learn how to analyze a phishing email by examining headers, body, URLs, and attachments. Understand different phishing types and techniques, and how to use open-source tools to investigate and extract Indicators of Compromise (IOCs).
 
 ---
 
@@ -93,10 +92,9 @@ Learn how to analyze a phishing email by examining headers, body, URLs, and atta
 Your security team received a suspicious email claiming to be from PayPal. The sender address is:  
 `noreply@secure-paypai.com`
 
-Now, please answer below question
-
 Question 1: What is the reputation of the domain?
 
 
 ### Submission
-- Share the snapshot showing the reputation of teh domain
+- Snapshot showing the reputation of teh domain
+![image alt](https://github.com/sachinpatil-soc/Ethical-Hacking-Projects/blob/cf00dd7c8b73d81f9d68b8b7b385dc706612e5ac/phishing-1.png)
